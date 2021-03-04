@@ -1,2 +1,2 @@
 # Growth
-This are the Redshift & Hive SQL codes for extracting growth for specific Brands & Molecules
+This is the Redshift & Hive SQL code file for extracting growth of specific Brands & Molecules
